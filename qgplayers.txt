@@ -1,0 +1,25 @@
+Team			Name			Age	Country		Role
+Quetta Gladiators	Sarfraz Ahmed (c)	32	Pakistan	Batsman/Wk
+Quetta Gladiators	Shane Watson		35	Australia	All-Rounder
+Quetta Gladiators	Sunil Narine		33	West Indies	Bowler
+Quetta Gladiators	Dwayne Bravo		34	West Indies	All-Rounder
+Quetta Gladiators	Umar Akmal		33	Pakistan	Batsman
+Quetta Gladiators	Mohammad Nawaz		31	Pakistan	Bowler
+Quetta Gladiators	Rilee Rossouw		32	South Africa	Batsman
+Quetta Gladiators	Sohail Tanvir		35	Pakistan	All-Rounder
+Quetta Gladiators	Anwar Ali		31	Pakistan	All-Rounder
+Quetta Gladiators	Saud Shakeel		29	Pakistan	Bowler
+Quetta Gladiators	Fawad Ahmed		30	Pakistan	Bowler
+Quetta Gladiators	Mohammad Asghar		31	Pakistan	Bowler
+Quetta Gladiators	Danish Aziz		28	Pakistan	Batsman
+Quetta Gladiators	Ahsan Ali		25	Pakistan	Batsman
+Quetta Gladiators	Ghulam Mudassar		22	Pakistan	Batsman
+Quetta Gladiators	Naseem Shah		25	Pakistan	Bowler
+Quetta Gladiators	Harry Gurney		30	Australia	Bowler
+Quetta Gladiators	Ahmed Shehzad		32	Pakistan	Batsman
+Quetta Gladiators	Azam Khan		30	Pakista		Bowler
+Quetta Gladiators	Jalat Khan		30	Pakistn		Bowler
+Quetta Gladiators	Dwayne Smith		32	West Indies	Batsman
+Quetta Gladiators	Mohammad Irfan		31	Pakistan	Bowler
+Quetta Gladiators	Mohammad Hasnain	29	Pakistan	Bowler
+Quetta Gladiators	Max Waller		30	England		Bowler

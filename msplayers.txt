@@ -1,0 +1,26 @@
+Team Name: Multan Sultans
+Team		Player Name		Age	Country 	Role
+Multan Sultans	Shoaib Malik (c)	34	Pakistan 	All-Rounder
+Multan Sultans	Steve Smith		35	Australia	All-Rounder
+Multan Sultans	Shahid Afridi		36	Pakistan	All-Rounder
+Multan Sultans	Joe Denly		31	England		Batsman
+Multan Sultans	Junaid Khan		31	Pakistan	Bowler
+Multan Sultans	Mohammad Irfan		31	Pakistan	Bowler
+Multan Sultans	Shan Masood		30	Pakistan	Batsman
+Multan Sultans	Mohammad Abbas		31	Pakistan	Batsman
+Multan Sultans	Umar Siddiq		21	Pakistan	All-Rounder
+Multan Sultans	Mohammad Junaid		22	Pakistan	Batsman
+Multan Sultans	Qais Ahmad		24	Pakistan	Bowler
+Multan Sultans	Nicolas Pooran		34	NewZealand	All-Rounder
+Multan Sultans	Chris Green		31	England		All-Rounder
+Multan Sultans	Laurie Evans		31	England		Bowler
+Multan Sultans	Nauman Ali		23	Pakistan	Batsman
+Multan Sultans	Mohammad Ilyas		32	Pakistan	All-Rounder
+Multan Sultans	Dan Christian		34	Australia	All-Rounder
+Multan Sultans	Tom Moores		28	England		Bowler
+Multan Sultans	Ali Shafiq		26	Pakistan	Batsman
+Multan Sultans	Shakeel Ansar		30	Pakistan	Batsman/WK
+Multan Sultans	Andre Russell		33	West Indies	All-Rounder
+Multan Sultans	James Vince		32	England		All-Rounder
+Multan Sultans	Hammad Azam		33	Pakistan	All-Rounder
+Multan Sultans	Johnson Charles		31	West Indies	Batsman

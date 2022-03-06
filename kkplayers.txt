@@ -1,0 +1,23 @@
+Team Name: Karachi Kings
+Team		Player Name		Age	   Country	  Role
+Karachi Kings	Imad Wasim (c)		25	   Pakistan	  All-Rounder
+Karachi Kings	Colin Munro		31	   Newzealand	  All-Rounder
+Karachi Kings	Mohammad Amir		27	   Pakistan	  Bowler
+Karachi Kings	Babar Azam		21	   Pakistan	  Batsman
+Karachi Kings	Colin Ingram		33	   South Africa	  Batsman
+Karachi Kings	Usman Shinwari		31	   Pakistan	  Bowler
+Karachi Kings	Mohammad Rizwan		28	   Pakistan	  WK/Batsman  
+Karachi Kings	Ravi Bopara		33	   England  	  All-Rounder
+Karachi Kings	Sikandar Raza		34	   Zimbabwe  	  All-Rounder
+Karachi Kings	Awais Zia		31	   Pakistan	  Batsman
+Karachi Kings	Usama Mir		30	   Pakistan	  Bowler
+Karachi Kings	Aaron Summers		33	   Australia	  Bowler
+Karachi Kings	Sohail Khan		31	   Pakistan	  Bowler
+Karachi Kings	Iftikhar Ahmed		24	   Pakistan	  Batsman
+Karachi Kings	Ali Imran		22	   Pakistan	  Batsman
+Karachi Kings	Abrar Ahmed		27	   Pakistan	  Batsman
+Karachi Kings	Aamer Yamin		31	   Pakistan	  Bowler
+Karachi Kings	Ben Dunk		29	   Australia	  Bowler
+Karachi Kings	Liam Livingstone	30	   England	  All-Rounder
+Karachi Kings	Jaahid Ali		21	   Pakistan	  Bowler
+Karachi Kings	Umer Khan		20	   Pakistan	  Bowler

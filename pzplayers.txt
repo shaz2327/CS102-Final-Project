@@ -1,0 +1,26 @@
+Team Name: Peshawar Zalmi
+Team		Player Name	  Age	Country		Role
+Peshawar Zalmi	Darren Sammy (c)  34	West Indies	All-Rounder
+Peshawar Zalmi	Wahab Riaz 	  34	Pakistan	Bowler
+Peshawar Zalmi	Hasan Ali	  31	Pakistan	Batsman
+Peshawar Zalmi	Kamran Akmal	  33	Pakistan	Batsman
+Peshawar Zalmi	Kieron Pollard	  36	West Indies	All-Rounder
+Peshawar Zalmi	Liam Dawson	  31	England 	All-Rounder
+Peshawar Zalmi	Umaid Asif	  30	Pakistan	Bowler
+Peshawar Zalmi	Khalid Usman	  29	Pakistan	Batsman
+Peshawar Zalmi	Sameen Gul	  27	Pakistan	Bowler
+Peshawar Zalmi	Misbah-ul-Haq	  40	Pakistan	Batsman
+Peshawar Zalmi	Dawid Malan	  31	England 	Batsman
+Peshawar Zalmi	Umar Amin	  32	Pakistan	All-Rounder
+Peshawar Zalmi	Wayne Madsen	  29	West Indies	Batsman
+Peshawar Zalmi	Sohaib Maqsood	  29	Pakistan	Batsman
+Peshawar Zalmi	Jamal Anwar	  27	Pakistan	Bowler
+Peshawar Zalmi	Nabi Gul	  28	Pakistan	Bowler
+Peshawar Zalmi	Chris Jordan	  31	England		Bowler
+Peshawar Zalmi	Waqar Salamkheil  29	Pakistan	Batsman
+Peshawar Zalmi	Ibtisam Sheikh	  21	Pakistan	Bowler
+Peshawar Zalmi	Samiullah	  21	Pakistan	Bowler
+Peshawar Zalmi	Andre Fletcher	  31	West Indies	Batsman
+Peshawar Zalmi	Imam-ul-Haq	  29	Pakistan	Batsman
+Peshawar Zalmi	Lendl Simmons	  31	West Indies	Batsman
+Peshawar Zalmi	Tymal Mills	  33	West Indies	All-Rounder

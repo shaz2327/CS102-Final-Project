@@ -1,0 +1,24 @@
+Team Name: Islamabad United
+Team			Player Name		Age	Country		Role
+Islamabad United	Mohammad Sami (c)	33	Pakistan	Bowler	
+Islamabad United	Shadab Khan (vc)	31	Pakistan	Bowler
+Islamabad United	Faheem Ashraf		31	Pakistan	All-Rounder
+Islamabad United	Asif Ali		30	Pakistan	Batsman
+Islamabad United	Luke Ronchi		36	NewZealand	Batsman/WK
+Islamabad United	Rumman Raees		31	Pakistan	All-Rounder
+Islamabad United	Hussain Talat		31	Pakistan	Batsman
+Islamabad United	Sahibzada Farhan	32	Pakistan	Batsman
+Islamabad United	Ian Bell		36	England		Batsman
+Islamabad United	Samit Patel		37	England		All-Rounder
+Islamabad United	Waqas Maqsood		29	Pakistan	Batsman
+Islamabad United	Zafar Gohar		30	Pakistan	Bowler
+Islamabad United	Wayne Parnell		34	South Africa	All-Rounder
+Islamabad United	Phil Salt		30	England		Batsman
+Islamabad United	Chadwick Walton		33	West Indies	Batsman
+Islamabad United	Cameron Delport		33	South Africa	Batsman
+Islamabad United	Muhammad Musa		30	Pakistan	Bowler
+Islamabad United	Nasir Nawaz		21	Pakistan	Batsman
+Islamabad United	Zahir Khan		23	Pakistan	Bowler
+Islamabad United	Amad Butt		24	Pakistan	Batsman
+Islamabad United	Rivzwan Hussain		20	Pakistan	Bowler
+Islamabad United	Alex Hales		33	Englans		Batsman

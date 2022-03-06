@@ -1,0 +1,24 @@
+Team Name: Lahore Qalandars
+Team			Player Name		Age	Country		Role
+Lahore Qalandars	Fakhar Zaman (c)	23	Pakistan	Batsman
+Lahore Qalandars	AB de Villiers		36	South Africa	Batsman
+Lahore Qalandars	Mohammad Hafeez		35	Pakistan	All-Rounder
+Lahore Qalandars	Carlos Brathwaite	31	West Indies	All-Rounder
+Lahore Qalandars	Corey Anderson		31	NewZealand	All-Rounder
+Lahore Qalandars	Haris Sohail		33	Pakistan	All-Rounder
+Lahore Qalandars	Hasan Khan		29	Pakistan	Batsman
+Lahore Qalandars	Rahat Ali		34	Pakistan	Bowler
+Lahore Qalandars	Yasir Shah		32	Pakistan	Bowler
+Lahore Qalandars	Shaheen Afridi		19	Pakistan	Bowler
+Lahore Qalandars	Anton Devcich		31	Australia	Batsman
+Lahore Qalandars	Agha Salman		29	Pakistan	Batsman
+Lahore Qalandars	Sohail Akhtar		30	Pakistan	Batsman
+Lahore Qalandars	Sandeep Lamichhane	29	Sri-Lanka	Bowler
+Lahore Qalandars	Mohammad Imran		23	Pakistan	Batsman
+Lahore Qalandars	Umair Masood		21	Pakistan	Bowler
+Lahore Qalandars	Brendan Taylor		35	Zimbabwe	All-Rounder
+Lahore Qalandars	Gauhar Ali		32	Pakistan	Batsman
+Lahore Qalandars	Aizaz Cheema		35	Pakistan	Bowler
+Lahore Qalandars	Haris Rauf		31	Pakistan	Bowler
+Lahore Qalandars	Hardus Viljoen		33	South Africa	Batsman
+Lahore Qalandars	David Wiese		34	South Africa	All-Rounder
